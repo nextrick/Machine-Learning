@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Machine-Learning"
+  site-url: "https://nextrick.github.io/Machine-Learning"
+  description: "This is Nextrick Machine Learning course"
+  repo-branch: main
+  repo-url: "https://github.com/nextrick/Machine-Learning"
